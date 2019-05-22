@@ -1,5 +1,5 @@
 # 자바 ORM 표준 JPA 프로그래밍
-Java JPA 학습에 엄청 큰 도움이 된 책. 쉽게 잘 설명하려는 저자의 노력이 보인다.
+Java JPA 학습에 엄청 큰 도움이 된 책.
 
 
 SKIMMING 0.75, REPETITION 0

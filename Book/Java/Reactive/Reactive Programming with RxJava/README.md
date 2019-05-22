@@ -3,7 +3,7 @@
 
 Highly Stateful, concurrent, and asynchronous한 프로그래밍을 할 수 있다.
 
-Design Pattern을 사용하는 이유 중에서 패턴에 대한 용어로 소통이 원할 해 지는 것처럼, Reactive Operation에 대해서 서로 이해하고 있으면, 소통 및 코드가 훨신 간결 해 질 것이다.
+Design Pattern을 사용하는 이유 중에서 패턴에 대한 용어로 소통이 원할 해 지는 것처럼, Reactive Operation에 대해서 서로 이해하고 있으면, 소통 및 코드가 훨씬 간결 해 질 것이다.
 
 Spring WebFlux를 이해하는데도 큰 도움이 된다.
 
@@ -15,6 +15,6 @@ Current: Chapter 4. Applying Reactive Programming
 
 SKIMMING 0.25, REPETITION 0
 
-JAVA|RXJAVA|REACTIVE STREAMING|WEB FLUX|FUNCTIONAL|
+JAVA|RXJAVA|REACTIVE STREAMING|WEB FLUX|FUNCTIONAL|TOMASZ NURKIEWICZ|BEN CHRISTENSEN
 
 [Reactive Programming with RxJava 책 링크](https://www.amazon.com/Reactive-Programming-RxJava-Asynchronous-Applications/dp/1491931655)
