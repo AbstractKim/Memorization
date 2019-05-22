@@ -1,3 +1,4 @@
+
 # Memorization
 
 ## Intro
