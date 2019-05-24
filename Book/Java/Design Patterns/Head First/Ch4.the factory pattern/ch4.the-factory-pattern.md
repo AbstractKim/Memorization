@@ -15,7 +15,8 @@ PizzaStore에서 예를 들음. PizzaStore에서 abstract method를 생성. 상�
   - 다른 operator()에서 생성된 Pizza의 method를 사용
 
 
-**Dependency Inversion Principle:** Depend upon abstractions. Do not depend upon concrete classes.
+
+
 
 **The Abstract Factory Pattern** provides an interface for creating families of related or dependent objects without specifying their concrete classes.
 
