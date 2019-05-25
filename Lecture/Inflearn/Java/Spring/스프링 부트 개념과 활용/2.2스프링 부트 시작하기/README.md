@@ -1,5 +1,5 @@
 ## 스프링 부트 시작하기
-- maven 프로젝스 생성
+- maven 프로젝트 생성
 - pom.xml에 의존성 추가 하기
   - parent
   - web  (이것을 추가 했을때, external library들이 쭉쭉 올라옴)
