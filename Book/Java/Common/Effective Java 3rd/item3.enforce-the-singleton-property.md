@@ -25,4 +25,4 @@
 
 [참고 추천링크 by whiteship](https://www.oracle.com/technetwork/articles/java/javaserial-1536170.html)
 
-[참고 HeadFirst- the singleton pattern](..\..\Design Patterns\Head First\Ch5the singleton pattern\ch5.the-singleton-pattern.md)
+[참고 HeadFirst- the singleton pattern](../../Design Patterns/Head First/Ch5the singleton pattern/ch5.the-singleton-pattern.md)
