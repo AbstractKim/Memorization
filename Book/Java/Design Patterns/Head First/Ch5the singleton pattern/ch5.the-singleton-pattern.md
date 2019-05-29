@@ -22,4 +22,4 @@ Singleton Pattern은 static global access와 달리 우리가 원할 때 생성�
   상속 불가
 
 
-  [참고: Effective Java 3rd. item 3. enforce the single property with a private constructor or an enum type](\Memorization\Book\Java\Common\Effective Java 3rd\item3.enforce-the-singleton-property.md)
+  [참고: Effective Java 3rd. item 3. enforce the single property with a private constructor or an enum type](Memorization\Book\Java\Common\Effective Java 3rd\item3.enforce-the-singleton-property.md)
