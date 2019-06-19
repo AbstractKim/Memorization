@@ -16,14 +16,30 @@ String concatenation is O(xn^2). Why?
 
 ## Interview Questions
 #### 1.1 Implement an algorithm to determine if a string has all unique characters. What if you cannot user additional data structure?
-- Brute-Force
+- Questions for Interviewer (by book)
+  - if the string is an ASCII or Unicode
+  - if it is ASCII, should ask if it is extended ASCII or not
+- **Myself 1** Brute-Force (without data structure)
   - log(n^2)
-- Using HashMap
+- **Myself 2** Using HashMap (with data structure)
   - log(n)
+- **Solution 1** by book. using boolean array of 128 or 256 (extended ASCII case) : **it's similar concept using HashMap** (Myself 2)
+- **Solution 2** by book.  using int and shift operation (assumption that inputs are only lowercase)
+- **Extra Suggestion 1** by book. Brute-Force way. It is same as 'Myself 1'
+- **Extra Suggestion 2** by book. Sort and linear check
+
+
+
 
 #### 1.2 **Check Permutation:** Given two strings, write a method to decide if one is a permutation of the other
 - What is permutation?
 https://www.khanacademy.org/math/precalculus/prob-comb/combinatorics-precalc/v/permutation-formula
 - If each character and the count of each character is same, we can decide one is a permutation of the other
-  - Using HashMap
+- Questions for Interviewer (by book)
+  - permutation comparison is case sensitive
+  - white space is significant
+- **Myself 1** Using HashMap
     - 2 * log(n) right??
+- **Solution 1** using sort
+  - nlog(n)
+- **Solution 2** using identical character count, int array of 128 (assumption it's ASCII ) : It's similar concept with using HashMap (counted) **  
