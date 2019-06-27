@@ -43,3 +43,8 @@ https://www.khanacademy.org/math/precalculus/prob-comb/combinatorics-precalc/v/p
 - **Solution 1** using sort
   - nlog(n)
 - **Solution 2** using identical character count, int array of 128 (assumption it's ASCII ) : It's similar concept with using HashMap (counted) **  
+
+#### 1.3 **URLify**: Write a method to replace all spaces in a string with '%20'. You may assume that the string sufficient space at the end to hold additional characters, and that you are given the "true" length of the string. (Note: if implementing in java, please use a character array) so that you can perform this operation in place.
+- Questions for Interviewer
+  - I understand the case input string is bigger than input length. It just truncated. But how about the case input string is smaller than input length
+    - Do I need to fill it '%20'?
