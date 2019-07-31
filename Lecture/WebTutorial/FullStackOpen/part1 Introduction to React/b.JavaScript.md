@@ -1,0 +1,24 @@
+## JavaScript
+https://fullstackopen.com/en/part1/javascript
+- Variables
+  - [var, let and const - ES6 JavaScript Features](https://www.youtube.com/watch?v=sjyJBL5fkp8&feature=youtu.be)
+- Arrays
+  - push vs concat
+  - foreach
+  - map
+  - destructuring assignment
+- Objects
+- Functions
+- Exercises
+- Object methods and "this"
+  - method
+  - arrow
+  - https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth
+- Classes
+  - [Protoype inheritance](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
+  - Javascript essentially only defines the types Boolean, Null, Undefined, Number, String, Symbol, and Object.
+- JavaScript materials
+  - [Mozilla's JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+  - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+  - https://egghead.io/
