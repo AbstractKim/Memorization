@@ -1,5 +1,7 @@
 ## 누구든지 하는 리액트: 초심자를 위한 react 핵심 강좌
-- link: https://www.inflearn.com/course/react-velopert/dashboard
+- link
+  - https://www.inflearn.com/course/react-velopert/dashboard
+  - https://velopert.com/3612
 
 기선님이 추천해준 [Deep Dive Into Modern Web Developmen](https://fullstackopen.com/en/)을 Skimming을 하다가, 옛날에 구매해 놓은 velopert님의 강좌를 들으면 react에 대한 개념이 더 팍팍 잡힐 것 같이서 보기 시작
 
